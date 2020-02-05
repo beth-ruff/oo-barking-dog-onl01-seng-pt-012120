@@ -6,6 +6,9 @@ end
 def name 
   @this_dogs_name
 end
+
+def bark
+  @bark = 
 end
 
 fido = Dog.new 

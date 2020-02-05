@@ -10,3 +10,4 @@ end
 
 fido = dog.new 
 fido.name = "Fido"
+fido.bark =  "Woof"

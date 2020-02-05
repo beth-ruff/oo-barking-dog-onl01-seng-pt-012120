@@ -8,6 +8,6 @@ def name
 end
 end
 
-fido = dog.new 
+fido = Dog.new 
 fido.name = "Fido"
 fido.bark =  "Woof"
